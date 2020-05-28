@@ -1,2 +1,2 @@
-# CAM
-Computer Architecture multithreading
+# CA
+Computer Architecture
