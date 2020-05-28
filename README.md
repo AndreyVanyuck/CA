@@ -1,2 +1,1 @@
-# CA
-Computer Architecture
+# Computer Architecture
